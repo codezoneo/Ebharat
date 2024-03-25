@@ -57,7 +57,7 @@ function Navbar() {
                     className="-m-2 inline-flex items-center justify-center rounded-md p-2 text-gray-400"
                     onClick={() => setOpen(false)}
                   >
-                    <span className="sr-only">Close menu</span>
+                    <span className="sr-only">Close Menu</span>
                     <RxCross2 />
                   </button>
                 </div>
